@@ -8,8 +8,6 @@ import Axios from "./components/fetch/Axios";
 import NotFound from "./components/NotFound";
 import CustomNavbar from "./components/CustomNavbar";
 
-const HOME_URL = "";
-
 function App() {
   console.log(process.env.PUBLIC_URL);
 
